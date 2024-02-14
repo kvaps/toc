@@ -79,7 +79,7 @@ The CNCF will lean towards developer community support and the CNCF service desk
 
 Some key points:
 
-* Sandbox projects will be listed separately from other CNCF projects (cncf.io/sandbox)
+* Sandbox projects will be listed separately from other CNCF projects (cncf.io/sandbox-projects)
 * They will not be prominently listed at our events or issued a press release
 * Reviewed on an annual basis; submit a report to the TOC for review
 * CNCF Sandbox projects can stay in the sandbox indefinitely
